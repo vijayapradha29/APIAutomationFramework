@@ -9,6 +9,12 @@
     5.Test Data-CSV,Excel,JSON
     6.Parallel Execution-X Distribute
 
+### Framework Structure:
+![image](https://github.com/user-attachments/assets/3090fa12-4bfb-4905-bc74-7b4c4bfb6f4b)
+
+### Allure Report:
+![image](https://github.com/user-attachments/assets/9acd5b3e-ba08-4a48-ab9d-ee8fbb554dc3)
+
 ### How To Install Packages:
 ``pip install requests pytest pytest-html faker allure-pytest jsonschema``
 
